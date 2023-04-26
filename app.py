@@ -6,7 +6,7 @@ from prediction import get_prediction, ordinal_encoder
 
 model = joblib.load(r'models/SiteEnergyIntensityPrediction.joblib')
 
-st.set_page_config(page_title="Accident Severity Prediction App", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="Site Energy Intensity Prediction App", page_icon="⚡", layout="wide")
 
 
 #creating option list for dropdown menu
