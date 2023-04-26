@@ -1,1 +1,1 @@
-# Site-Energy-Intensity-Prediction
+# Site Energy Intensity Prediction
