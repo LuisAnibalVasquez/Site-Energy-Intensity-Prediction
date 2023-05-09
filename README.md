@@ -10,3 +10,5 @@ In this, an attempt is made to predict Site EUI given the characteristics of the
 The target feature is Site EUI .
 
 The metric used for evaluation is RMSE
+
+You can check the [live app](https://lavo-site-energy-intensity-prediction.onrender.com/)
